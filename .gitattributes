@@ -1,0 +1,2 @@
+bgm/** filter=lfs diff=lfs merge=lfs -text
+sfx/** filter=lfs diff=lfs merge=lfs -text

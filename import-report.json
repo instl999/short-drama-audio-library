@@ -1,0 +1,393 @@
+{
+  "source_files": 2268,
+  "media_source_files": 1602,
+  "unique_assets": 1284,
+  "duplicate_copies_removed": 318,
+  "by_kind": {
+    "bgm": 1217,
+    "sfx": 67
+  },
+  "total_bytes": 9442068514,
+  "needs_mood_review": 0,
+  "by_mood": {
+    "calm": 226,
+    "soothing": 231,
+    "funny": 198,
+    "humorous": 61,
+    "ethereal": 5,
+    "sacred": 3,
+    "cheerful": 66,
+    "relaxed": 203,
+    "uplifting": 146,
+    "eerie": 28,
+    "horror": 42,
+    "epic": 77,
+    "powerful": 58,
+    "cute": 143,
+    "joyful": 144,
+    "bright": 68,
+    "inspiring": 78,
+    "playful": 4,
+    "touching": 34,
+    "warm": 10,
+    "heroic": 3,
+    "sad": 158,
+    "mysterious": 24,
+    "suspense": 76,
+    "grand": 74,
+    "majestic": 66,
+    "intense": 72,
+    "tense": 99,
+    "negative": 63,
+    "sensual": 2,
+    "romantic": 35,
+    "comic": 6,
+    "awkward": 2,
+    "free_spirited": 5,
+    "nostalgic": 15,
+    "suspicious": 4,
+    "peaceful": 6,
+    "tearful": 11,
+    "detached": 1,
+    "laid_back": 1,
+    "emotional": 12,
+    "confident": 1,
+    "elegant": 3,
+    "tragic": 3,
+    "sinister": 2,
+    "passionate": 3,
+    "healing": 3,
+    "carefree": 4,
+    "cool": 4,
+    "triumphant": 7,
+    "villainous": 3,
+    "scheming": 7,
+    "seductive": 1,
+    "luxurious": 2,
+    "regretful": 2,
+    "anxious": 1,
+    "rousing": 2,
+    "sweet": 1,
+    "hopeful": 1
+  },
+  "excluded": [
+    {
+      "excluded": "新增/【BGM】-大气恢弘/CGZY.NET/AE模板精选影视片头音乐合集.url",
+      "reason": "not_audio_media"
+    },
+    {
+      "excluded": "新增/【BGM】-大气恢弘/CGZY.NET/WWW.CGZY.NET----CG资源网.url",
+      "reason": "not_audio_media"
+    },
+    {
+      "excluded": "新增/【BGM】-大气恢弘/CGZY.NET/免责声明.png",
+      "reason": "not_audio_media"
+    },
+    {
+      "excluded": "新增/【BGM】-大气恢弘/CGZY.NET/后期资源网-VFXZY.COM.url",
+      "reason": "not_audio_media"
+    },
+    {
+      "excluded": "新增/【BGM】-大气恢弘/加入VIP会员，海量CG资源免费下载.url",
+      "reason": "not_audio_media"
+    },
+    {
+      "excluded": "新增/【BGM】-酷炫洒脱/19元235G流量，限时领取.png",
+      "reason": "not_audio_media"
+    },
+    {
+      "excluded": "新增/【BGM】-酷炫洒脱/公众号持续免费分享 .jpg",
+      "reason": "not_audio_media"
+    },
+    {
+      "excluded": "新增/【BGM】-酷炫洒脱/点击进入：优质海量免费资源群.url",
+      "reason": "not_audio_media"
+    },
+    {
+      "excluded": "音乐/Vlog-旅拍/liqwyd-night-out-6ee2a6acb4ca.mp3.qkdownloading",
+      "reason": "incomplete_download"
+    },
+    {
+      "excluded": "音乐/Vlog-旅拍/liqwyd-shine-1131817bde6c.mp3.qkdownloading",
+      "reason": "incomplete_download"
+    },
+    {
+      "excluded": "音乐/Vlog-旅拍/liqwyd-take-it-392e64b9f0df.mp3.qkdownloading",
+      "reason": "incomplete_download"
+    },
+    {
+      "excluded": "音乐/Vlog-旅拍/Lobby-Time-410309594872.mp3.qkdownloading",
+      "reason": "incomplete_download"
+    },
+    {
+      "excluded": "音乐/Vlog-旅拍/Love-life-64f937b235d3.mp3.qkdownloading",
+      "reason": "incomplete_download"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Contemplate the stars.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 0000024e9d53ae40] Header missing\r\n    Last message repeated 73 times\r\n[mp3float @ 0000024e9d545880] Header missing\r\n[aist#0:0/mp3 @ 0000024e9d53ae40] [dec:mp3float @ 0000024e9f2fc200] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000024e9d545880] Header missing\r\n[aist#0:0/mp3 @ 0000024e9d53ae40] [dec:mp3float @ 0000024e9f2fc200] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000024e9d545880] Header missing\r\n[aist#0:0/mp3 @ 0000024e9d53ae40] [dec:mp3float @ 0000024e9f2fc200] Error submitting pac"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/People are spinning.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 0000023c91918680] Header missing\r\n    Last message repeated 812 times\r\n[mp3float @ 0000023c919220c0] Header missing\r\n[aist#0:0/mp3 @ 0000023c91918680] [dec:mp3float @ 0000023c91921b40] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000023c919220c0] Header missing\r\n[aist#0:0/mp3 @ 0000023c91918680] [dec:mp3float @ 0000023c91921b40] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000023c919220c0] Header missing\r\n[aist#0:0/mp3 @ 0000023c91918680] [dec:mp3float @ 0000023c91921b40] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/史诗-震撼/Reaching The Sky-1ee7c84a68d6.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001d0a21d7d40] Header missing\r\n    Last message repeated 838 times\r\n[mp3float @ 000001d0a21e2dc0] Header missing\r\n[aist#0:0/mp3 @ 000001d0a21d7d40] [dec:mp3float @ 000001d0a4480dc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d0a21e2dc0] Header missing\r\n[aist#0:0/mp3 @ 000001d0a21d7d40] [dec:mp3float @ 000001d0a4480dc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d0a21e2dc0] Header missing\r\n[aist#0:0/mp3 @ 000001d0a21d7d40] [dec:mp3float @ 000001d0a4480dc0] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/史诗-震撼/Reaching The Sky.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001d0a21d7d40] Header missing\r\n    Last message repeated 838 times\r\n[mp3float @ 000001d0a21e2dc0] Header missing\r\n[aist#0:0/mp3 @ 000001d0a21d7d40] [dec:mp3float @ 000001d0a4480dc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d0a21e2dc0] Header missing\r\n[aist#0:0/mp3 @ 000001d0a21d7d40] [dec:mp3float @ 000001d0a4480dc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d0a21e2dc0] Header missing\r\n[aist#0:0/mp3 @ 000001d0a21d7d40] [dec:mp3float @ 000001d0a4480dc0] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Affirmations.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 0000026a0594f340] Header missing\r\n    Last message repeated 817 times\r\n[mp3float @ 0000026a07de1b80] Header missing\r\n[aist#0:0/mp3 @ 0000026a0594f340] [dec:mp3float @ 0000026a07de1a00] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000026a07de1b80] Header missing\r\n[aist#0:0/mp3 @ 0000026a0594f340] [dec:mp3float @ 0000026a07de1a00] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000026a07de1b80] Header missing\r\n[aist#0:0/mp3 @ 0000026a0594f340] [dec:mp3float @ 0000026a07de1a00] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/悲伤-负面/Affirmations.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 0000026a0594f340] Header missing\r\n    Last message repeated 817 times\r\n[mp3float @ 0000026a07de1b80] Header missing\r\n[aist#0:0/mp3 @ 0000026a0594f340] [dec:mp3float @ 0000026a07de1a00] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000026a07de1b80] Header missing\r\n[aist#0:0/mp3 @ 0000026a0594f340] [dec:mp3float @ 0000026a07de1a00] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000026a07de1b80] Header missing\r\n[aist#0:0/mp3 @ 0000026a0594f340] [dec:mp3float @ 0000026a07de1a00] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Forest Walk.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 00000252a4faa740] Header missing\r\n    Last message repeated 829 times\r\n[mp3float @ 00000252a4fb1500] Header missing\r\n[aist#0:0/mp3 @ 00000252a4faa740] [dec:mp3float @ 00000252a6b38dc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000252a4fb1500] Header missing\r\n[aist#0:0/mp3 @ 00000252a4faa740] [dec:mp3float @ 00000252a6b38dc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000252a4fb1500] Header missing\r\n[aist#0:0/mp3 @ 00000252a4faa740] [dec:mp3float @ 00000252a6b38dc0] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Lupe(1).mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001d5e6a89bc0] Header missing\r\n    Last message repeated 849 times\r\n[mp3float @ 000001d5e6a8f140] Header missing\r\n[aist#0:0/mp3 @ 000001d5e6a89bc0] [dec:mp3float @ 000001d5e6a89d80] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d5e6a8f140] Header missing\r\n[aist#0:0/mp3 @ 000001d5e6a89bc0] [dec:mp3float @ 000001d5e6a89d80] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d5e6a8f140] Header missing\r\n[aist#0:0/mp3 @ 000001d5e6a89bc0] [dec:mp3float @ 000001d5e6a89d80] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Lupe.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001d5e6a89bc0] Header missing\r\n    Last message repeated 849 times\r\n[mp3float @ 000001d5e6a8f140] Header missing\r\n[aist#0:0/mp3 @ 000001d5e6a89bc0] [dec:mp3float @ 000001d5e6a89d80] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d5e6a8f140] Header missing\r\n[aist#0:0/mp3 @ 000001d5e6a89bc0] [dec:mp3float @ 000001d5e6a89d80] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d5e6a8f140] Header missing\r\n[aist#0:0/mp3 @ 000001d5e6a89bc0] [dec:mp3float @ 000001d5e6a89d80] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/悲伤-负面/No man’s Land.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001b4c48f8d40] Header missing\r\n    Last message repeated 821 times\r\n[mp3float @ 000001b4c48f96c0] Header missing\r\n[aist#0:0/mp3 @ 000001b4c48f8d40] [dec:mp3float @ 000001b4c6e20cc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001b4c48f96c0] Header missing\r\n[aist#0:0/mp3 @ 000001b4c48f8d40] [dec:mp3float @ 000001b4c6e20cc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001b4c48f96c0] Header missing\r\n[aist#0:0/mp3 @ 000001b4c48f8d40] [dec:mp3float @ 000001b4c6e20cc0] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Fergus O’Reilly(1).mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001415e31aa00] Header missing\r\n    Last message repeated 207 times\r\n[mp3float @ 000001415e325600] Header missing\r\n[aist#0:0/mp3 @ 000001415e31aa00] [dec:mp3float @ 000001415e325040] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001415e325600] Header missing\r\n[aist#0:0/mp3 @ 000001415e31aa00] [dec:mp3float @ 000001415e325040] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001415e325600] Header missing\r\n[aist#0:0/mp3 @ 000001415e31aa00] [dec:mp3float @ 000001415e325040] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Fergus O’Reilly.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001415e31aa00] Header missing\r\n    Last message repeated 207 times\r\n[mp3float @ 000001415e325600] Header missing\r\n[aist#0:0/mp3 @ 000001415e31aa00] [dec:mp3float @ 000001415e325040] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001415e325600] Header missing\r\n[aist#0:0/mp3 @ 000001415e31aa00] [dec:mp3float @ 000001415e325040] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001415e325600] Header missing\r\n[aist#0:0/mp3 @ 000001415e31aa00] [dec:mp3float @ 000001415e325040] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/Vlog-旅拍/liqwyd-just-smile-981e5fff2787.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 00000263cbfba0c0] Header missing\r\n    Last message repeated 829 times\r\n[mp3float @ 00000263cbfc4ac0] Header missing\r\n[aist#0:0/mp3 @ 00000263cbfba0c0] [dec:mp3float @ 00000263cbfc2900] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000263cbfc4ac0] Header missing\r\n[aist#0:0/mp3 @ 00000263cbfba0c0] [dec:mp3float @ 00000263cbfc2900] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000263cbfc4ac0] Header missing\r\n[aist#0:0/mp3 @ 00000263cbfba0c0] [dec:mp3float @ 00000263cbfc2900] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/Vlog-旅拍/liqwyd-just-smile.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 00000263cbfba0c0] Header missing\r\n    Last message repeated 829 times\r\n[mp3float @ 00000263cbfc4ac0] Header missing\r\n[aist#0:0/mp3 @ 00000263cbfba0c0] [dec:mp3float @ 00000263cbfc2900] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000263cbfc4ac0] Header missing\r\n[aist#0:0/mp3 @ 00000263cbfba0c0] [dec:mp3float @ 00000263cbfc2900] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000263cbfc4ac0] Header missing\r\n[aist#0:0/mp3 @ 00000263cbfba0c0] [dec:mp3float @ 00000263cbfc2900] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/励志-明朗/liqwyd-just-smile.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 00000263cbfba0c0] Header missing\r\n    Last message repeated 829 times\r\n[mp3float @ 00000263cbfc4ac0] Header missing\r\n[aist#0:0/mp3 @ 00000263cbfba0c0] [dec:mp3float @ 00000263cbfc2900] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000263cbfc4ac0] Header missing\r\n[aist#0:0/mp3 @ 00000263cbfba0c0] [dec:mp3float @ 00000263cbfc2900] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000263cbfc4ac0] Header missing\r\n[aist#0:0/mp3 @ 00000263cbfba0c0] [dec:mp3float @ 00000263cbfc2900] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Study and Relax.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001a903f48980] Header missing\r\n    Last message repeated 883 times\r\n[mp3float @ 000001a903f52740] Header missing\r\n[aist#0:0/mp3 @ 000001a903f48980] [dec:mp3float @ 000001a903f521c0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001a903f52740] Header missing\r\n[aist#0:0/mp3 @ 000001a903f48980] [dec:mp3float @ 000001a903f521c0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001a903f52740] Header missing\r\n[aist#0:0/mp3 @ 000001a903f48980] [dec:mp3float @ 000001a903f521c0] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Lost in Russia.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001d7762e88c0] Header missing\r\n    Last message repeated 859 times\r\n[mp3float @ 000001d7762f3c80] Header missing\r\n[aist#0:0/mp3 @ 000001d7762e88c0] [dec:mp3float @ 000001d7762f36c0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d7762f3c80] Header missing\r\n[aist#0:0/mp3 @ 000001d7762e88c0] [dec:mp3float @ 000001d7762f36c0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001d7762f3c80] Header missing\r\n[aist#0:0/mp3 @ 000001d7762e88c0] [dec:mp3float @ 000001d7762f36c0] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/She Moved Through the Fair.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001cc73eb05c0] Header missing\r\n    Last message repeated 183 times\r\n[mp3float @ 000001cc73ecb480] Header missing\r\n[aist#0:0/mp3 @ 000001cc73eb0b00] [dec:mp3float @ 000001cc75d58240] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001cc73ecb480] Header missing\r\n[aist#0:0/mp3 @ 000001cc73eb0b00] [dec:mp3float @ 000001cc75d58240] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001cc73ecb480] Header missing\r\n[aist#0:0/mp3 @ 000001cc73eb0b00] [dec:mp3float @ 000001cc75d58240] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Adrift Among Infinite Stars.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001e4c85db700] Header missing\r\n    Last message repeated 817 times\r\n[mp3float @ 000001e4c85e3700] Header missing\r\n[aist#0:0/mp3 @ 000001e4c85db700] [dec:mp3float @ 000001e4ca918bc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001e4c85e3700] Header missing\r\n[aist#0:0/mp3 @ 000001e4c85db700] [dec:mp3float @ 000001e4ca918bc0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001e4c85e3700] Header missing\r\n[aist#0:0/mp3 @ 000001e4c85db700] [dec:mp3float @ 000001e4ca918bc0] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/励志-明朗/Sappheiros-Escape.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 00000208495cf5c0] Header missing\r\n    Last message repeated 829 times\r\n[mp3float @ 000002084b9c3b00] Header missing\r\n[aist#0:0/mp3 @ 00000208495cfb40] [dec:mp3float @ 000002084b9c3580] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000002084b9c3b00] Header missing\r\n[aist#0:0/mp3 @ 00000208495cfb40] [dec:mp3float @ 000002084b9c3580] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000002084b9c3b00] Header missing\r\n[aist#0:0/mp3 @ 00000208495cfb40] [dec:mp3float @ 000002084b9c3580] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Almost Bliss(1).mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 00000274415fafc0] Header missing\r\n    Last message repeated 841 times\r\n[mp3float @ 000002744381ab40] Header missing\r\n[aist#0:0/mp3 @ 00000274415fafc0] [dec:mp3float @ 000002744381a9c0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000002744381ab40] Header missing\r\n[aist#0:0/mp3 @ 00000274415fafc0] [dec:mp3float @ 000002744381a9c0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000002744381ab40] Header missing\r\n[aist#0:0/mp3 @ 00000274415fafc0] [dec:mp3float @ 000002744381a9c0] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Almost Bliss.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 00000274415fafc0] Header missing\r\n    Last message repeated 841 times\r\n[mp3float @ 000002744381ab40] Header missing\r\n[aist#0:0/mp3 @ 00000274415fafc0] [dec:mp3float @ 000002744381a9c0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000002744381ab40] Header missing\r\n[aist#0:0/mp3 @ 00000274415fafc0] [dec:mp3float @ 000002744381a9c0] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000002744381ab40] Header missing\r\n[aist#0:0/mp3 @ 00000274415fafc0] [dec:mp3float @ 000002744381a9c0] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/史诗-震撼/The Soul-Crushing Monotony Of Isolation-e89751998f51.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 0000027974823980] Header missing\r\n    Last message repeated 862 times\r\n[mp3float @ 0000027974832fc0] Header missing\r\n[aist#0:0/mp3 @ 0000027974823980] [dec:mp3float @ 0000027974832a00] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000027974832fc0] Header missing\r\n[aist#0:0/mp3 @ 0000027974823980] [dec:mp3float @ 0000027974832a00] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000027974832fc0] Header missing\r\n[aist#0:0/mp3 @ 0000027974823980] [dec:mp3float @ 0000027974832a00] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/史诗-震撼/The Soul-Crushing Monotony Of Isolation.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 0000027974823980] Header missing\r\n    Last message repeated 862 times\r\n[mp3float @ 0000027974832fc0] Header missing\r\n[aist#0:0/mp3 @ 0000027974823980] [dec:mp3float @ 0000027974832a00] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000027974832fc0] Header missing\r\n[aist#0:0/mp3 @ 0000027974823980] [dec:mp3float @ 0000027974832a00] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000027974832fc0] Header missing\r\n[aist#0:0/mp3 @ 0000027974823980] [dec:mp3float @ 0000027974832a00] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/安静-舒缓/Appalachian Mountains.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 00000265fac38180] Header missing\r\n    Last message repeated 835 times\r\n[mp3float @ 00000265fac3ff80] Header missing\r\n[aist#0:0/mp3 @ 00000265fac38180] [dec:mp3float @ 00000265fced4d40] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000265fac3ff80] Header missing\r\n[aist#0:0/mp3 @ 00000265fac38180] [dec:mp3float @ 00000265fced4d40] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 00000265fac3ff80] Header missing\r\n[aist#0:0/mp3 @ 00000265fac38180] [dec:mp3float @ 00000265fced4d40] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/欢快-轻松/Summer Madness.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 000001bef92d9c80] Header missing\r\n    Last message repeated 870 times\r\n[mp3float @ 000001bef92da1c0] Header missing\r\n[aist#0:0/mp3 @ 000001bef92d9c80] [dec:mp3float @ 000001befb3dee40] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001bef92da1c0] Header missing\r\n[aist#0:0/mp3 @ 000001bef92d9c80] [dec:mp3float @ 000001befb3dee40] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 000001bef92da1c0] Header missing\r\n[aist#0:0/mp3 @ 000001bef92d9c80] [dec:mp3float @ 000001befb3dee40] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/欢快-轻松/Tropical Night.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 0000023009f39000] Header missing\r\n    Last message repeated 221 times\r\n[mp3float @ 0000023009f39940] Header missing\r\n[aist#0:0/mp3 @ 0000023009f55e00] [dec:mp3float @ 000002300bf95540] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000023009f39940] Header missing\r\n[aist#0:0/mp3 @ 0000023009f55e00] [dec:mp3float @ 000002300bf95540] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000023009f39940] Header missing\r\n[aist#0:0/mp3 @ 0000023009f55e00] [dec:mp3float @ 000002300bf95540] Error submitting pa"
+    },
+    {
+      "excluded": "音乐/悲伤-负面/scott-buckley-i-walk-with-ghosts.mp3",
+      "reason": "audio_decode_failed",
+      "detail": "decode_failed: [mp3float @ 0000022a81f1a200] Header missing\r\n    Last message repeated 825 times\r\n[mp3float @ 0000022a81f25800] Header missing\r\n[aist#0:0/mp3 @ 0000022a81f1a200] [dec:mp3float @ 0000022a841a3e40] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000022a81f25800] Header missing\r\n[aist#0:0/mp3 @ 0000022a81f1a200] [dec:mp3float @ 0000022a841a3e40] Error submitting packet to decoder: Invalid data found when processing input\r\n[mp3float @ 0000022a81f25800] Header missing\r\n[aist#0:0/mp3 @ 0000022a81f1a200] [dec:mp3float @ 0000022a841a3e40] Error submitting pa"
+    }
+  ],
+  "video_extractions": [
+    {
+      "source": "音乐/【剧情BGM】1/【战歌起_韩剧OST合集_收藏向】盘点那些为韩剧注入灵魂的好听到炸裂的OST.「蓝色大海的传说」Love_Story┊LYN.200598357.mp4",
+      "output": "bgm/romantic/bgm_0e84b8266b5f99b9__romantic.m4a",
+      "method": "audio_stream_copy"
+    },
+    {
+      "source": "音乐/【剧情BGM】1/（感人）LYn (Whenever, Wherever) 《师任堂：光的日记》韩剧插曲).mp4",
+      "output": "bgm/touching/bgm_147eb244aecb3a92__touching.m4a",
+      "method": "audio_stream_copy"
+    },
+    {
+      "source": "音乐/【剧情BGM】1/【神级战歌_韩剧OST合集_收藏向】(持续更新).【鬼怪】-Stay_With_Me.248548499.mp4",
+      "output": "bgm/romantic/bgm_1f332780613d821f__romantic.m4a",
+      "method": "audio_stream_copy"
+    },
+    {
+      "source": "音乐/【剧情BGM】1/【战歌起_韩剧OST合集_收藏向】盘点那些为韩剧注入灵魂的好听到炸裂的OST.「太阳的后裔」再次见到你┊Mad_Clown、金娜英.200518593.mp4",
+      "output": "bgm/touching/bgm_220a4f1c1e5cbeb7__touching.m4a",
+      "method": "audio_stream_copy"
+    },
+    {
+      "source": "音乐/【剧情BGM】1/【战歌起_韩剧OST合集_收藏向】盘点那些为韩剧注入灵魂的好听到炸裂的OST.「太阳的后裔」You_are_my_everything┊Gummy.200548813.mp4",
+      "output": "bgm/touching/bgm_61effa474ca51017__touching.m4a",
+      "method": "audio_stream_copy"
+    },
+    {
+      "source": "音乐/【剧情BGM】1/（感人）【THEKING：永远的君主】最经典的三首纯音乐.mp4",
+      "output": "bgm/touching/bgm_72095a3cbc4361f0__touching.m4a",
+      "method": "audio_stream_copy"
+    },
+    {
+      "source": "音乐/【剧情BGM】1/（感人）GUMMY - My Love [The King： 永远的君主 OST Part.11].mp4",
+      "output": "bgm/romantic/bgm_7900cdd023c49f5b__romantic-touching.m4a",
+      "method": "audio_stream_copy"
+    },
+    {
+      "source": "音乐/【剧情BGM】1/（催泪）最后的抉择 - Various Artists 【對不起, 我愛你】 電視原聲帶.mp4",
+      "output": "bgm/tearful/bgm_c3b12eb721eac75d__tearful.m4a",
+      "method": "audio_stream_copy"
+    },
+    {
+      "source": "音乐/【剧情BGM】1/（感人）1.mp4",
+      "output": "bgm/touching/bgm_f346b5fa5e6c5bfc__touching.m4a",
+      "method": "audio_stream_copy"
+    }
+  ],
+  "bgm_needs_mood_review": 0,
+  "validation": "All included assets fully decoded with ffmpeg",
+  "categories": {
+    "bgm/anxious": 1,
+    "bgm/awkward": 2,
+    "bgm/bright": 68,
+    "bgm/calm": 224,
+    "bgm/carefree": 4,
+    "bgm/cheerful": 61,
+    "bgm/comic": 6,
+    "bgm/confident": 1,
+    "bgm/cute": 136,
+    "bgm/detached": 1,
+    "bgm/eerie": 25,
+    "bgm/elegant": 2,
+    "bgm/emotional": 9,
+    "bgm/epic": 64,
+    "bgm/ethereal": 3,
+    "bgm/free_spirited": 3,
+    "bgm/funny": 49,
+    "bgm/grand": 66,
+    "bgm/healing": 3,
+    "bgm/heroic": 3,
+    "bgm/hopeful": 1,
+    "bgm/horror": 1,
+    "bgm/humorous": 1,
+    "bgm/inspiring": 5,
+    "bgm/intense": 66,
+    "bgm/joyful": 2,
+    "bgm/luxurious": 2,
+    "bgm/mysterious": 23,
+    "bgm/negative": 47,
+    "bgm/nostalgic": 12,
+    "bgm/peaceful": 2,
+    "bgm/playful": 2,
+    "bgm/powerful": 1,
+    "bgm/regretful": 2,
+    "bgm/relaxed": 2,
+    "bgm/romantic": 22,
+    "bgm/sad": 75,
+    "bgm/scheming": 6,
+    "bgm/seductive": 1,
+    "bgm/sensual": 2,
+    "bgm/soothing": 2,
+    "bgm/suspense": 19,
+    "bgm/suspicious": 1,
+    "bgm/tearful": 11,
+    "bgm/tense": 11,
+    "bgm/touching": 27,
+    "bgm/tragic": 3,
+    "bgm/triumphant": 3,
+    "bgm/uplifting": 128,
+    "bgm/villainous": 3,
+    "bgm/warm": 3,
+    "sfx/cute": 1,
+    "sfx/eerie": 3,
+    "sfx/emotional": 3,
+    "sfx/ethereal": 2,
+    "sfx/grand": 2,
+    "sfx/horror": 19,
+    "sfx/intense": 1,
+    "sfx/nostalgic": 3,
+    "sfx/powerful": 1,
+    "sfx/romantic": 2,
+    "sfx/sinister": 1,
+    "sfx/suspense": 25,
+    "sfx/suspicious": 1,
+    "sfx/tense": 3
+  },
+  "deferred_unlabeled": {
+    "unique_assets": 555,
+    "source_files": 625,
+    "by_kind": {
+      "sfx": 110,
+      "bgm": 445
+    },
+    "total_bytes": 3068087527,
+    "reason": "Owner requested files without mood labels remain local and are not uploaded."
+  }
+}
